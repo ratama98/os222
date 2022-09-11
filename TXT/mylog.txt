@@ -17,3 +17,12 @@ ZCZC W00 180 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 30 L05 Quiz related including studying
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L41 TXT/mylog.txt related
+ZCZC W01 100 L02 ZOOM meetings related
+ZCZC W01 180 L11 Assignment #01 (setup Debian Linux, etc.)
+ZCZC W01 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 60 L22 Linux CLI including tar, etc.
+ZCZC W01 100 L02 ZOOM meetings related
+ZCZC W01 180 L11 Assignment #01 (setup Debian Linux, etc.)
+ZCZC W01 30 L05 Quiz related including studying
+ZCZC W01 10 L40 TXT/ related in general.
+ZCZC W01 10 L41 TXT/mylog.txt related.
