@@ -20,3 +20,6 @@ It helps me a lot with understanding what regex is and it's general purposes.
 2. [Regex Cheatsheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)<br>
 Same as above but presented as a "cheatsheet". 
 A much denser summary with even shorter explanations.
+
+3. [Week 01 References](https://osp4diss.vlsm.org/W01-02.html)<br>
+Essential week 01 resources.
