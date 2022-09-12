@@ -13,7 +13,7 @@ permalink: LINKS/
 # LINKS
 
 ## Week 1
-1. [Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285))<br>
+1. [Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)<br>
 A great summary/introduction to basic regex. 
 It helps me a lot with understanding what regex is and it's general purposes.
 
