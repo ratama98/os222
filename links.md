@@ -29,8 +29,8 @@ Essential week 01 resources.
 A YouTube playlist made by Edureka containing a complete course about Cyber Security. 
 Content varies from basic security concepts, some technical implementations of said concepts, and general topics like career paths.
 
-2. [Cybersec Cheat Sheets in all Flavors!](https://www.reddit.com/r/cybersecurity/comments/iu17uu/cybersec_cheat_sheets_in_all_flavors_huge_list/)<br>
-A Reddit post I found on the r/cybersecurity subreddit containing helpful cheatsheets and summaries about a lot of topics on cyber security.
+2. [The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)<br>
+A collection of cheatsheets I found containing helpful summaries about a lot of cyber security topics.
 
 3. [Cryptography: Crash Course Computer Science #33 | CrashCourse](https://youtu.be/jhXCTbFnK8o)<br>
 A bite-sized explanation about the basic concepts of Cryptography.
