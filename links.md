@@ -34,3 +34,13 @@ A collection of cheatsheets I found containing helpful summaries about a lot of 
 
 3. [Cryptography: Crash Course Computer Science #33 | CrashCourse](https://youtu.be/jhXCTbFnK8o)<br>
 A bite-sized explanation about the basic concepts of Cryptography.
+
+## Week 3
+1. [libfuse](https://github.com/libfuse/libfuse)<br>
+The Github repository for FUSE. Contains documentations and implementations.
+
+2. [grep command in Unix/Linux | GeeksforGeeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)<br>
+One of the week 1 websites I revisited for this week's quiz. Very helpful for studying/reviewing grep commands.
+
+3. [File Allocation Methods | GeeksforGeeks](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
+Another GeeksforGeeks article. A concise explanation about contiguous, linked, and indexed allocation.
