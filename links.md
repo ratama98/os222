@@ -44,3 +44,13 @@ One of the week 1 websites I revisited for this week's quiz. Very helpful for st
 
 3. [File Allocation Methods | GeeksforGeeks](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
 Another GeeksforGeeks article. A concise explanation about contiguous, linked, and indexed allocation.
+
+## Week 4
+1. [Online C Compiler | ideone.com](https://ideone.com/l/c)<br>
+A very helpful tool for compiling C (or other languages).
+
+2. [C Reference Cheat Sheet by Ashlyn Black](https://cheatography.com/ashlyn-black/cheat-sheets/c-reference/)<br>
+As described in the website, it contains: "C Syntax, Data Types, Structure & Common Library Functions". Comes in handy during the Week 04 Quiz 02.
+
+3. [[OPERATING SYSTEMS] 9 - Main Memory | Blancaflor Arada](https://www.youtube.com/watch?v=IFimg7yibU8)<br>
+A complete explanation on Chapter 9 (main memory) powerpoint by Blancaflor Arada.
