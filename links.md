@@ -54,3 +54,13 @@ As described in the website, it contains: "C Syntax, Data Types, Structure & Com
 
 3. [[OPERATING SYSTEMS] 9 - Main Memory | Blancaflor Arada](https://www.youtube.com/watch?v=IFimg7yibU8)<br>
 A complete explanation on Chapter 9 (main memory) powerpoint by Blancaflor Arada.
+
+## Week 5
+1. [Virtual Memory in Operating System | GfG](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+A Geeks for Geeks article that was very helpful for understanding this week's materials. The illustrations also complements the explanations really well, making it easy to understand.
+
+2. [Memory Allocation](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)
+A great concise explanation about memory allocation if you need either a headstart or a summary.
+
+3. [Virtual Memory | David Black-Schaffer](https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&index=1)
+A complete Youtube playlist made by David Black-Schaffer about Virtual memory. Absolutely top tier explanation, highly recommended.

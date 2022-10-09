@@ -62,3 +62,11 @@ ZCZC W04 10 L32 YouTube: watching OS related topics, etc.
 ZCZC W04 10 L01 SCELE related
 ZCZC W04 10 L03 GitHub related
 ZCZC W04 10 L40 TXT/ related in general.
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05 100 L02 Offline class
+ZCZC W05 200 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 10 L05 Quiz related including stidying
+ZCZC W05 10 L05 Quiz related including stidying
+ZCZC W05 200 L12 Assignment #2 Finished
+ZCZC W05 120 L14 Assignment #4 Finished
+ZCZC W05 180 L21 Trying something for Week05 Pop Quiz
