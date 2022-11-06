@@ -64,3 +64,13 @@ A great concise explanation about memory allocation if you need either a headsta
 
 3. [Virtual Memory | David Black-Schaffer](https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&index=1)
 A complete Youtube playlist made by David Black-Schaffer about Virtual memory. Absolutely top tier explanation, highly recommended.
+
+## Week 6
+1. [fork() in C | GfG](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Amazing explanation on fork() with code examples and breakdowns using C.
+
+2. [Processes and Threads (Concurrency Basics) | A Dev' Story](https://www.youtube.com/watch?v=Wv7mzX8w3jI)<br>
+A short video explaining about the basics of processes and threads, concurrency, parallelism, etc.
+
+3. [Reading 17: Concurrency | MIT](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/)<br>
+A more in-depth reading about concurrency.
