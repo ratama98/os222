@@ -74,3 +74,10 @@ A short video explaining about the basics of processes and threads, concurrency,
 
 3. [Reading 17: Concurrency | MIT](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/)<br>
 A more in-depth reading about concurrency.
+
+## Week 7
+1. [Process Synchronization | Neso Academy](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)
+A playlist of 16 videos by Neso Academy about process synchronization.
+
+2. [Introduction of Process Synchronization | GfG](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+Basic level, easy to understand explanation about process synchronization by GeeksforGeeks.
