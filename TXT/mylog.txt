@@ -93,3 +93,13 @@ ZCZC W07 45 L05 Popquiz
 ZCZC W07 120 L32 YouTube: watching OS related topics, etc.
 ZCZC W07 120 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W07 15 L40 TXT/ related in general.
+ZCZC W08 100 L02 Offline Class
+ZCZC W08 100 L02 Offline Class
+ZCZC W08 30 L11 Assignment #01
+ZCZC W08 30 L12 Assignment #02
+ZCZC W08 420 L13 Assignment #03
+ZCZC W08 10 L05 Quiz 02
+ZCZC W08 10 L40 TXT/ related in general.
+ZCZC W08 10 L05 Quiz 01
+ZCZC W08 45 L05 Popquiz
+ZCZC W08 15 L40 TXT/ related in general.

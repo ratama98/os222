@@ -76,8 +76,15 @@ A short video explaining about the basics of processes and threads, concurrency,
 A more in-depth reading about concurrency.
 
 ## Week 7
-1. [Process Synchronization | Neso Academy](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)
+1. [Process Synchronization | Neso Academy](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)<br>
 A playlist of 16 videos by Neso Academy about process synchronization.
 
-2. [Introduction of Process Synchronization | GfG](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+2. [Introduction of Process Synchronization | GfG](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
 Basic level, easy to understand explanation about process synchronization by GeeksforGeeks.
+
+## Week 8
+1. [Kernotex’s YouTube LFS 11.2 PlayList](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+LFS installation prep was really complicated, and this playlist definitely helped a lot during the process.
+
+2. [LFS Packages mirror ver 11.2](https://mirror.koddos.net/lfs/lfs-packages/11.2/)<br>
+For some reason most of the mirror download links that actually works are from this website.
